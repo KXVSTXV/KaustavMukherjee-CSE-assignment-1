@@ -8,7 +8,7 @@
 - **Light/Dark mode** toggle 🌗
 - Fade-in/Fade-out animation when scrolling 🎭
 - Anchored/fixed navigation bar for user-friendly toggling of dark/light mode 📌
-- Animation for on-site images and navigation bar texts (when cursor is hovered) for immersive user-experience 🎨
+- Animation for on-site images & navigation bar texts (when cursor is hovered) for immersive user-experience 🎨
 
 Here's a **demo** of how the created website looks and feels like (with these features) 🎬👇 ---
 
