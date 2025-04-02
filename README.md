@@ -13,5 +13,7 @@
 Here's a **demo** of how the created website looks and feels like (with these features) 🎬👇 ---
 
 
-https://github.com/user-attachments/assets/99e9cc9d-dc44-4a3a-8acf-23d4b29d5e98
+https://github.com/user-attachments/assets/2f975288-8344-47ef-a292-33913f4e7b88
+
+
 
